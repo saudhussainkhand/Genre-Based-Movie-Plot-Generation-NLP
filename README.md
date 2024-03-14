@@ -2,7 +2,7 @@
 Fine tuned GPT-2, DistilGPT, GPT-Neo, T5, BART for Genre based movie plot generation
 
 ## Abstract
-The project ”Genre-Based Movie Plot Genera- tion Using Text Generation Models” explores the exciting field of natural language process- ing and machine learning to generate movie plots based on different genres. The goal of the project is to leverage text generation models to automatically generate unique and engag- ing movie plots that align with specific genres, such as action, romance, comedy, or science fiction. To achieve this, the project utilizes state-of-the-art text generation models, such as GPT-2, Distill-GPT, GPT-NEO, BART and T5 Models. All of the models were fined tuned on wikimovies dataset. Furthermore the gen- erated stores were evaluated using Self-BLEU score.
+The project ”Genre-Based Movie Plot Generation Using Text Generation Models” explores the exciting field of natural language process- ing and machine learning to generate movie plots based on different genres. The goal of the project is to leverage text generation models to automatically generate unique and engag- ing movie plots that align with specific genres, such as action, romance, comedy, or science fiction. To achieve this, the project utilizes state-of-the-art text generation models, such as GPT-2, Distill-GPT, GPT-NEO, BART and T5 Models. All of the models were fined tuned on wikimovies dataset. Furthermore the gen- erated stores were evaluated using Self-BLEU score.
 
 ## Generated Plots Example (Fine Tuned GPT2)
 Input Prompt: BOS superhero Batman
